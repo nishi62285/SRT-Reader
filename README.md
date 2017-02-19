@@ -46,11 +46,12 @@ A search operation is made on B Tree as follows:
 I.	If provided time is <= Duration then look for left side nodes else right side nodes.
 II.	If provided time comes between min and max time [i.e. From and To time of Key] of Left/Right node then corresponding dialogue is returned.
 
-3	Things to look after : 
+<b>3	Things to look after : </b>
 
       Implement a more profound insertion criteria and search criteria on B Tree.
       
-4	References:
+      
+<b>4	References:</b>
 
 Binary Search Trees (BSTs) in C# 
 http://snipd.net/binary-search-trees-bsts-in-c
