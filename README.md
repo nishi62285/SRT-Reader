@@ -14,7 +14,8 @@ i.	Physical path of the SRT file.
 ii.	Duration of the video/Audio.
 iii.	Type of Video /Audio in terms of time i.e. H [Hour], M [Minute], S [Second].
 
-2.1	 B Tree Creation and Criteria: 
+<b>2.1	 B Tree Creation and Criteria: </b>
+
 
 While preparing a B Tree, dialogues are read from SRT file one by one. Dialogue format is as follows:
 00:00:00,970 --> 00:00:03,000
