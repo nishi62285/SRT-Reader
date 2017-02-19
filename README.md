@@ -1,8 +1,10 @@
-Contents
+<b>Contents</b>
+
 1.	Introduction
 2.	How it works.
 3.	Things to look after. 
 4.	References
+
 1	Introduction:
     	This project allows you to read SRT files and provides a search functionality to get dialogues between a given intervals
 2	How it works:
