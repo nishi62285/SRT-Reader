@@ -5,9 +5,10 @@
 3.	Things to look after. 
 4.	References
 
-1	Introduction:
+<b>1	Introduction:</b>
     	This project allows you to read SRT files and provides a search functionality to get dialogues between a given intervals
-2	How it works:
+        
+<b>2	How it works:</b>
 The class library accepts a SRT file which it reads and organizes dialogues and time intervals in the form of Binary Tree. The time interval forms the Left/Right node of a B Tree. To build a B Tree following input parameters required:
 i.	Physical path of the SRT file.
 ii.	Duration of the video/Audio.
@@ -46,7 +47,10 @@ I.	If provided time is <= Duration then look for left side nodes else right side
 II.	If provided time comes between min and max time [i.e. From and To time of Key] of Left/Right node then corresponding dialogue is returned.
 
 3	Things to look after : 
+
       Implement a more profound insertion criteria and search criteria on B Tree.
+      
 4	References:
+
 Binary Search Trees (BSTs) in C# 
 http://snipd.net/binary-search-trees-bsts-in-c
